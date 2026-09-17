@@ -1149,8 +1149,8 @@
         "required": [
           "id",
           "createdAt",
-          "name",
           "updatedAt",
+          "name",
           "status"
         ]
       },
@@ -1581,11 +1581,11 @@
           }
         },
         "required": [
+          "displayName",
           "id",
           "createdAt",
-          "version",
-          "displayName",
           "updatedAt",
+          "version",
           "status"
         ]
       },

@@ -157,9 +157,9 @@
           }
         },
         "required": [
-          "phoneNumberSid",
-          "externalPhoneNumberStatus",
           "phoneNumber",
+          "externalPhoneNumberStatus",
+          "phoneNumberSid",
           "accountSid"
         ]
       },
